@@ -29,7 +29,7 @@ const siteProps = {
   email: "junwu.liu@studentambassadors.com",
   gitHub: "playmaker-ljw-Dipper",
   instagram: "",
-  linkedIn: "dipper-ljw",
+  linkedIn: "dipperljw",
   medium: "",
   twitter: "",
   youTube: "@dipperljw1967",
