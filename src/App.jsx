@@ -29,10 +29,10 @@ const siteProps = {
   email: "junwu.liu@studentambassadors.com",
   gitHub: "playmaker-ljw-Dipper",
   instagram: "",
-  linkedIn: "dipperljw",
+  linkedIn: "ddipper-ljw-0a665a297",
   medium: "",
   twitter: "",
-  youTube: "UCroMSspW2stmBgTAYohkSRg",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
