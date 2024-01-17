@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "dipperljw",
   medium: "",
   twitter: "",
-  youTube: "@dipperljw1967",
+  youTube: "UCroMSspW2stmBgTAYohkSRg",
 };
 
 const primaryColor = "#4E567E";
